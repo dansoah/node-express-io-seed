@@ -10,7 +10,7 @@ module.exports = {
         user:'root',
         password:'root',
         port:3386,
-        schema:'nova_agri'
+        schema:'xxx'
     },
     files:{
         root:'',
